@@ -1,2 +1,2 @@
-# NATS-Visualization
+# NATS Visualization
 NATS Topology Visualization
