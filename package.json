@@ -1,0 +1,19 @@
+{
+  "name": "nats-visualization",
+  "version": "1.0.0",
+  "description": "NATS Topology Visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solid-fluid/NATS-Visualization.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solid-fluid/NATS-Visualization/issues"
+  },
+  "homepage": "https://github.com/solid-fluid/NATS-Visualization#readme"
+}
