@@ -1,0 +1,14 @@
+name: Code analysis test
+
+on:
+  pull_request:
+
+jobs:
+  oneCommit:
+    if: github.event_name == 'pull_request'
+    name: OneCommit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Gaurang033/OneCommit@v1
+        with:
+          max_commits: 1
